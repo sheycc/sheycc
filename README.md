@@ -9,5 +9,5 @@ I have a bachelor's degree in Computer Science 📜 obtained in December 2022 at
 I’m working to become a great Front-End Software Developer 👩‍💻💻...
 Currently learning a lot of stuff 🔭.
 
-👀 I’m also interested in movies🎬, fitness lifestyle🏃‍♀️, animals🐶🐱 and life in general... 🌱🌸!
+👀 I’m also interested in movies🎬, fitness lifestyle🏃‍♀️, animals🐶🐱 and life in general...🌱🌸!
 
