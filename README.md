@@ -1,8 +1,5 @@
 ### Hi there ✌!
 
-<!--
-**sheycc/sheycc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Sheyla Cruz Castro @sheycc 👩‍🦰. Here are some things about me:
 
 I have a bachelor's degree in Computer Science 📜 obtained in December 2022 at the University of Havana 🎓. 
